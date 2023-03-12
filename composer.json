@@ -1,0 +1,17 @@
+{
+    "name": "secasure/test-sca-repo",
+    "autoload": {
+        "psr-4": {
+            "Secasure\\TestScaRepo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yuvraj0909",
+            "email": "digheyuvraj1@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.261"
+    }
+}
